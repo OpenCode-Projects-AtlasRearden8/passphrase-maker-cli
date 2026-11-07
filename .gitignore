@@ -1,6 +1,12 @@
-__pycache__/
 *.py[cod]
-.pytest_cache/
+*.pyc
 *.txt.out
+.env
+.env.*
 .idea/
+.pytest_cache/
+.venv/
 .vscode/
+__pycache__/
+dist/*.tmp
+node_modules/
